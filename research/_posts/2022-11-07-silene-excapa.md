@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Detection of sex-specific genetic markers within the <i> Silene acaulis </i>  species complex
+title: Beginn des Projekts
 category: research
 background: '/research/assets/images/bg_silene-sex.jpg'
 
