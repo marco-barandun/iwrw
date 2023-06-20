@@ -5,11 +5,12 @@ library(scales)
 library(tidyverse)
 library(sf)
 library(htmltools)
+library(readr)
 
 setwd("/Users/marco/GitHub/iwrw/R_files")
 source("./config_plot_map.R")
 
-plots <- read_csv("./iwrw-plots.csv") %>%
+plots <- read_csv("./iwrw-plots.csv", locale = locale(encoding = "UTF-8")) %>%
   mutate(link = paste0("http://www.google.ch/maps/place/", Latitude, ",", Longitude))
 
 #be <- rgdal::readOGR("/Users/marco/kDocuments_Marco/PhD/old/server/1_original_data/shapefiles/be_bewirtschaftungseinheit_view.shp")
