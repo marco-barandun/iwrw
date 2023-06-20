@@ -6,58 +6,35 @@ library(tidyverse)
 library(sf)
 library(htmltools)
 
-setwd("/Users/marco/GitHub/graslandvielfalt/R_files")
+setwd("/Users/marco/GitHub/iwrw/R_files")
 source("./config_plot_map.R")
 
-#municipalities <- st_read("./gadm41_CHE.gpkg", layer = "ADM_ADM_3")
-
-#plots <- read_csv("./2023-joinedPlotSelection_v2.csv") %>%
-#  get_municipality(., municipalities, what = c("NAME_1", "NAME_3")) %>%
-#  rename(canton = NAME_1,
-#         municipality = NAME_3) %>%
-#  mutate(priority = gsub("A", "", priority)) %>%
-#  arrange(priority, canton, municipality, elevation) %>%
-#  group_by(municipality) %>%
-#  mutate(ID = paste0(priority, "-",
-#                     toupper(substr(canton, 1, 2)), "-", 
-#                     toupper(substr(municipality, 1, 2)), "-", 
-#                     row_number())) %>%
-#  ungroup() %>%
-#  select(ID, elevation, canton, municipality, mgroup, LU1980, LU2000, LU2020, LNF_Code, everything()) %>%
-#  arrange(priority, elevation)
-
-#write_csv(plots, "./2023-joinedPlotSelection_v3.csv")
-
-donePlots <- read_csv("./2023-donePlots.csv") %>%
-  filter(Done == 1)
-
-plots <- read_csv("./2023-joinedPlotSelection_v3.csv") %>%
-  filter(!priority %in% c("MP5", "MP6", "MP7")) %>%
+plots <- read_csv("./iwrw-plots.csv") %>%
   mutate(link = paste0("http://www.google.ch/maps/place/", Latitude, ",", Longitude))
 
-#be <- rgdal::readOGR("/Users/marco/kDocuments_Marco/PhD/server/1_original_data/shapefiles/be_bewirtschaftungseinheit_view.shp")
-
-#poly <- be %>%
-#  get_polygons(plots = plots, shapefile = ., radius_m = 500)
+#be <- rgdal::readOGR("/Users/marco/kDocuments_Marco/PhD/old/server/1_original_data/shapefiles/be_bewirtschaftungseinheit_view.shp")
 #
-#writeOGR(poly, dsn = "./2023-plots-with-be-poly.geojson", 
-#         layer = ogrListLayers("/Users/marco/kDocuments_Marco/PhD/server/1_original_data/shapefiles/be_bewirtschaftungseinheit_view.shp")[1],
+#poly <- be %>%
+#  get_polygons(plots = plots, shapefile = ., radius_m = 150)
+#
+#writeOGR(poly, dsn = "./plots-with-be-poly.geojson", 
+#         layer = ogrListLayers("/Users/marco/kDocuments_Marco/PhD/old/server/1_original_data/shapefiles/be_bewirtschaftungseinheit_view.shp")[1],
 #         driver = "GeoJSON")
 
-poly <- rgdal::readOGR("./2023-plots-with-be-poly.geojson")
+poly <- rgdal::readOGR("./plots-with-be-poly.geojson")
 
 ########################################################################################################################################
 ### Create plot table #################################################################################################################
 ########################################################################################################################################
   
-(t <- DT::datatable(plots %>% filter(!ID %in% donePlots$ID) %>%
+(t <- DT::datatable(plots %>%
                       mutate(ID = paste0('<a target="_parent" href=', .$link, '>', .$ID, ' </a>', sep = "")) %>%
-                      select(-Latitude, -Longitude, -link, -P.Test.CO2., -Nutzungsid),
+                      select(-Latitude, -Longitude, -link),
                     class = "display nowrap",
                     escape = F,
                     rownames = FALSE))
 
-htmltools::save_html(t, file="2023-plot-table.html")
+htmltools::save_html(t, file="plot-table.html")
 
 
 ########################################################################################################################################
@@ -70,50 +47,23 @@ pal <- colorFactor(
   domain = plots$priority
 )
 
-# Create a leaflet map with the Swiss Topographic Map as a basemap
-#(m <- leaflet(plots) %>%
-#    addTiles(urlTemplate = "https://wmts20.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{z}/{x}/{y}.jpeg",
-#             attribution = '&copy; <a href="https://www.geo.admin.ch/de/about-swiss-geoportal/impressum.html#copyright">swisstopo</a>') %>% 
-#    
-#    # Add a button for each category in the priority variable
-#    addLayersControl(
-#      overlayGroups = c(unique(plots$priority), "Done Plots", "Bewirtschaftungseinheiten"), 
-#      options = layersControlOptions(collapsed = TRUE)
-#    ) %>%
-#    
-#    addCircleMarkers(data = plots, 
-#                     lat = ~Latitude, lng = ~Longitude,
-#                     popup = ~paste(ID, round(elevation, 0), sep = " - "),
-#                     radius = 8, stroke = FALSE, fillOpacity = 1, color = ~pal(priority),
-#                     group = ~priority) %>%
-#    
-#    addLegend(pal = pal, values = plots$priority,
-#              position = "bottomright", title = "Value") %>%
-#    addScaleBar(position = "bottomleft") %>%
-#    setView(lng = 9, lat = 46.4, zoom = 8) %>%
-#  addPolygons(data = poly, 
-#                fill = FALSE, 
-#                color = "darkorange", 
-#                opacity = 0.9,
-#                group = "Bewirtschaftungseinheiten") %>%
-#  addAwesomeMarkers(data = donePlots,
-#                    lat = ~Latitude, lng = ~Longitude,
-#                    icon = ~awesomeIcons(
-#                      icon = "leaf",
-#                      markerColor = "green",
-#                      iconColor = "white",
-#                      library = "fa"
-#                    ),
-#                    labelOptions = labelOptions(noHide = TRUE, textOnly = TRUE),
-#                    label = lapply(donePlots$ID, HTML),
-#                    clusterOptions = markerClusterOptions(removeOutsideVisibleBounds = FALSE),
-#                    group = "Done Plots") %>% 
-#  hideGroup("Bewirtschaftungseinheiten") #"MP3", "MP4", "MP5", "MP6", "MP7", "P2", "P3"
-#)
+addIconMarker <- function(lat, lng, map) {
+  addAwesomeMarkers(
+    map = map,
+    lng = lng,
+    lat = lat,
+    icon = awesomeIcon(
+      icon = "crosshairs",
+      markerColor = "blue",
+      library = "fa",
+      iconColor = "white"
+    )
+  )
+}
 
 # Filter the points with LU2020 column set to true
-BFF <- plots %>% filter(LU2020 == TRUE)
-non_BFF <- plots %>% filter(LU2020 == FALSE | is.na(LU2020))
+#BFF <- plots %>% filter(LU2020 == TRUE)
+#non_BFF <- plots %>% filter(LU2020 == FALSE | is.na(LU2020))
 
 (m <- leaflet(plots) %>%
     addTiles(urlTemplate = "https://wmts20.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{z}/{x}/{y}.jpeg",
@@ -122,37 +72,37 @@ non_BFF <- plots %>% filter(LU2020 == FALSE | is.na(LU2020))
     addTiles(urlTemplate = "https://wmts20.geo.admin.ch/1.0.0/ch.swisstopo.swissimage/default/current/3857/{z}/{x}/{y}.jpeg",
              attribution = '&copy; <a href="https://www.geo.admin.ch/de/about-swiss-geoportal/impressum.html#copyright">swisstopo</a>',
              group = "Satellite View") %>%
-    addCircleMarkers(data = BFF, 
+    addCircleMarkers(data = plots, 
                      lat = ~Latitude, lng = ~Longitude,
-                     popup = ~paste(ID, round(elevation, 0), sep = " - "),
-                     radius = 8, stroke = FALSE, fillOpacity = 1, color = ~pal(priority),
+                     popup = ~paste(ID),#, round(elevation, 0), sep = " - "),
+                     radius = 8, stroke = FALSE, fillOpacity = 1, color = "magenta",#color = ~pal(priority),
                      group = "BFF") %>%
-    addCircleMarkers(data = non_BFF, 
-                     lat = ~Latitude, lng = ~Longitude,
-                     popup = ~paste(ID, round(elevation, 0), sep = " - "),
-                     radius = 8, stroke = FALSE, fillOpacity = 1, color = ~pal(priority),
-                     group = "non_BFF") %>%
-    addLegend(pal = pal, values = plots$priority,
-              position = "bottomright", title = "Value") %>%
+    #addCircleMarkers(data = non_BFF, 
+    #                 lat = ~Latitude, lng = ~Longitude,
+    #                 popup = ~paste(ID, round(elevation, 0), sep = " - "),
+    #                 radius = 8, stroke = FALSE, fillOpacity = 1, color = ~pal(priority),
+    #                 group = "non_BFF") %>%
+    #addLegend(pal = pal, values = plots$priority,
+    #          position = "bottomright", title = "Value") %>%
     addScaleBar(position = "bottomleft") %>%
-    setView(lng = 9, lat = 46.4, zoom = 8) %>%
+    setView(lng = 10.36, lat = 46.62, zoom = 13) %>%
     addPolygons(data = poly, 
                 fill = FALSE, 
                 color = "darkorange", 
                 opacity = 0.9,
                 group = "Bewirtschaftungseinheiten") %>%
-    addAwesomeMarkers(data = donePlots,
-                      lat = ~Latitude, lng = ~Longitude,
-                      icon = ~awesomeIcons(
-                        icon = "leaf",
-                        markerColor = "green",
-                        iconColor = "white",
-                        library = "fa"
-                      ),
-                      labelOptions = labelOptions(noHide = TRUE, textOnly = TRUE),
-                      label = lapply(donePlots$ID, HTML),
-                      clusterOptions = markerClusterOptions(removeOutsideVisibleBounds = FALSE),
-                      group = "Done Plots") %>% 
+    #addAwesomeMarkers(data = donePlots,
+    #                  lat = ~Latitude, lng = ~Longitude,
+    #                  icon = ~awesomeIcons(
+    #                    icon = "leaf",
+    #                    markerColor = "green",
+    #                    iconColor = "white",
+    #                    library = "fa"
+    #                  ),
+    #                  labelOptions = labelOptions(noHide = TRUE, textOnly = TRUE),
+    #                  label = lapply(donePlots$ID, HTML),
+    #                  clusterOptions = markerClusterOptions(removeOutsideVisibleBounds = FALSE),
+    #                  group = "Done Plots") %>% 
     addWMSTiles(
       baseUrl = "https://wms.geo.admin.ch/",
       layers = "ch.bav.haltestellen-oev",
@@ -161,24 +111,40 @@ non_BFF <- plots %>% filter(LU2020 == FALSE | is.na(LU2020))
     ) %>%
     addLayersControl(
       baseGroups = c("Swiss Topographic Map", "Satellite View"),
-      overlayGroups = c("BFF", "non_BFF", "Done Plots", "Bewirtschaftungseinheiten", "Public Transport Stops"),
+      overlayGroups = c("Bewirtschaftungseinheiten", "Public Transport Stops"),
       options = layersControlOptions(collapsed = TRUE)
     ) %>%
-    hideGroup(c("Bewirtschaftungseinheiten", "Public Transport Stops"))
-    
-)
-
-m <- addFullscreenControl(m)
-
-map <- addControlGPS(m, options = gpsOptions(position = "topleft", activate = TRUE, 
-                                               autoCenter = TRUE, maxZoom = 10, 
-                                               setView = TRUE))
-activateGPS(map)
-
+    hideGroup(c("Bewirtschaftungseinheiten", "Public Transport Stops")) %>%
+    addFullscreenControl() %>%
+    addEasyButton(
+      easyButton(
+        icon = "fa-crosshairs",
+        title = "Locate Me",
+        onClick = JS(
+          "function(btn, map) {
+          map.locate({setView: true, enableHighAccuracy: true});
+          
+          map.on('locationfound', function(e) {
+            var lat = e.latlng.lat;
+            var lng = e.latlng.lng;
+            
+            var customIcon = L.icon({
+              iconUrl: './icons/my_position.png',
+              iconSize: [52, 52],
+              iconAnchor: [16, 32]
+            });
+            
+            L.marker([lat, lng], { icon: customIcon }).addTo(map);
+          });
+        }"
+        )
+      )
+    )
+  )
 
 # Add fullscreen button
 
-htmlwidgets::saveWidget(map, file=paste("./2023-plot-map.html", sep = ""))
+htmlwidgets::saveWidget(m, file=paste("./plot-map.html", sep = ""))
 
 
 ###### SAVING AN IMAGE OF EVERY LOCATION ###### 

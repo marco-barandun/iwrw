@@ -2,7 +2,7 @@
 layout: post_noFooter
 title: Sampling
 description: "The story description text goes here"
-background: '/img/bg-map.png'
+background: '/img/bg-map.jpeg'
 
 ---
 
