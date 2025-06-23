@@ -1,13 +1,13 @@
-﻿ID,Latitude,Longitude,type,official_description,my_description,fertilization,cut_date
-IWRW-1,46.62867,10.335791,meadow,Qualitätswiese leicht gedüngt,quality_meadow,manure_2y,15.7
-IWRW-2,46.628781,10.346088,meadow,Qualitätswiese leicht gedüngt,quality_meadow,manure_2y,1.7
-IWRW-3,46.625927,10.344617,pasture,Extensivweide ungedüngt mit Flora-Qualität,quality_pasture,NA,NA
-IWRW-4,46.625702,10.364164,meadow,Vernetzungswiese leicht gedüngt,other_meadow,manure_2y,15.7
-IWRW-5,46.625885,10.364884,meadow,Trockene Wiese ungedüngt,dry_meadow,nothing,1.8
-IWRW-6,46.624865,10.362353,NA,no contract,very_intensive,intensive,
-IWRW-7,46.615992,10.37113,meadow,Trockene Wiese ungedüngt,dry_meadow,nothing,1.8
-IWRW-8,46.614932,10.374983,pasture,Trockene Wiese ungedüngt,dry_pasture,NA,NA
-IWRW-9,46.611774,10.378021,pasture,Trockene Wiese ungedüngt,dry_pasture,NA,NA
-IWRW-10,46.610374,10.379463,NA,no contract,very_intensive,intensive,
-IWRW-11,46.610275,10.384421,meadow,Vernetzungswiese leicht gedüngt,other_meadow,manure_2y,1.7
-IWRW-12,46.609747,10.387738,pasture,Extensivweide ungedüngt mit Flora-Qualität,quality_pasture,NA,NA
+﻿plot_id,Latitude,Longitude,type,official_description,my_description,management,cut_date,cut_days
+IWRW-01,46.62867,10.335791,meadow,Qualitätswiese leicht gedüngt,quality_meadow,manure_2y,15.7,196
+IWRW-02,46.628781,10.346088,meadow,Qualitätswiese leicht gedüngt,quality_meadow,manure_2y,1.7,182
+IWRW-03,46.625927,10.344617,pasture,Extensivweide ungedüngt mit Flora-Qualität,quality_pasture,pasture,NA,186
+IWRW-04,46.625702,10.364164,meadow,Vernetzungswiese leicht gedüngt,other_meadow,manure_2y,15.7,196
+IWRW-05,46.625885,10.364884,meadow,Trockene Wiese ungedüngt,dry_meadow,very_extensive,1.8,213
+IWRW-06,46.624865,10.362353,intensive,no contract,very_intensive,intensive,,152
+IWRW-07,46.615992,10.37113,meadow,Trockene Wiese ungedüngt,dry_meadow,very_extensive,1.8,213
+IWRW-08,46.614932,10.374983,pasture,Trockene Wiese ungedüngt,dry_pasture,pasture,NA,186
+IWRW-09,46.611774,10.378021,pasture,Trockene Wiese ungedüngt,dry_pasture,pasture,NA,186
+IWRW-10,46.610374,10.379463,intensive,no contract,very_intensive,intensive,,152
+IWRW-11,46.610275,10.384421,meadow,Vernetzungswiese leicht gedüngt,other_meadow,manure_2y,1.7,182
+IWRW-12,46.609747,10.387738,pasture,Extensivweide ungedüngt mit Flora-Qualität,quality_pasture,pasture,NA,186

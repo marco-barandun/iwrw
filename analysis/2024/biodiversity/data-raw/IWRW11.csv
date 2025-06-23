@@ -1,0 +1,1000 @@
+﻿0,0,0,genus,species,taxonCH,speciesCH,SEN,Nr_SISF,TaxonID,Rangstufe,Familie,0,0,0,already_cut,height_ave,height_max,0,0,0,0,0,worms,representativitaet,qualitaet
+0,0,0,Elymus,repe,Elymus repens (L.) Gould,Elymus repens (L.) Gould,2089,146560,1016450,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Agrost,alpi,Agrostis alpina Scop.,Agrostis alpina Scop.,121,8400,1001060,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Agrost,capi,Agrostis capillaris L.,Agrostis capillaris L.,127,8600,1001080,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Agrost,giga,Agrostis gigantea Roth,Agrostis gigantea Roth,129,8700,1001090,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Agrost,rupe,Agrostis rupestris All.,Agrostis rupestris All.,131,8900,1001100,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Agrost,stol,Agrostis stolonifera L.,Agrostis stolonifera L.,130,9300,1001130,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Alopec,prat,Alopecurus pratensis L.,Alopecurus pratensis L.,358,26000,1002920,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Anthox,alpi,Anthoxanthum alpinum Á. Löve & D. Löve,Anthoxanthum alpinum Á. Löve & D. Löve,498,35300,1003940,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Anthox,odor,Anthoxanthum odoratum L.,Anthoxanthum odoratum L.,499,35400,1003970,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Arrhen,elat,Arrhenatherum elatius (L.) J. Presl & C. Presl,Arrhenatherum elatius (L.) J. Presl & C. Presl,628,45900,1004930,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Brachy,rupe,Brachypodium rupestre (Host) Roem. & Schult.,Brachypodium rupestre (Host) Roem. & Schult.,895,64100,1007080,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Briza,medi,Briza media L.,Briza media L.,917,65200,1007200,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Bromus,erec,Bromus erectus Huds.,Bromus erectus Huds.,934,65695,1007290,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Calama,vari,Calamagrostis varia (Schrad.) Host,Calamagrostis varia (Schrad.) Host,1011,71400,1007940,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cynosu,cris,Cynosurus cristatus L.,Cynosurus cristatus L.,1807,129400,1014320,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Dactyl,glom,Dactylis glomerata L.,Dactylis glomerata L.,1846,131800,1014610,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Dantho,decu,Danthonia decumbens (L.) DC.,Danthonia decumbens (L.) DC.,1871,133100,1014860,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Descha,cesp,Deschampsia cespitosa (L.) P. Beauv.,Deschampsia cespitosa (L.) P. Beauv.,1898,134800,1015040,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Avenel,flex,Avenella flexuosa (L.) Drejer,Avenella flexuosa (L.) Drejer,800,57400,1006320,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Festuc,ovin,Festuca ovina aggr.,Festuca ovina aggr.,2374,168590,1019310,aggr,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Festuc,prat,Festuca pratensis Huds.,Festuca pratensis Huds.,2410,169100,1019380,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Festuc,rubr,Festuca rubra aggr.,Festuca rubra aggr.,2415,170200,1019470,aggr,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Helict,pube,Helictotrichon pubescens (Huds.) Pilg.,Helictotrichon pubescens (Huds.) Pilg.,2808,196800,1022390,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Holcus,lana,Holcus lanatus L.,Holcus lanatus L.,2940,206800,1023630,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lolium,pere,Lolium perenne L.,Lolium perenne L.,3460,242800,1027310,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lolium,mult,Lolium multiflorum Lam.,Lolium multiflorum Lam.,3459,242700,1027300,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Molini,caer,Molinia caerulea (L.) Moench,Molinia caerulea (L.) Moench,3751,263400,1029440,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Nardus,stri,Nardus stricta L.,Nardus stricta L.,3834,269700,1030080,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Phleum,hirs,Phleum hirsutum Honck.,Phleum hirsutum Honck.,4261,299600,1033370,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Phleum,prat,Phleum pratense L.,Phleum pratense L.,4266,300000,1033410,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Phleum,alpi,Phleum alpinum L.,Phleum alpinum L.,4259,298800,1033340,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Poa,alpi,Poa alpina L.,Poa alpina L.,4394,309000,1034470,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Poa,annu,Poa annua L.,Poa annua L.,4396,309200,1034490,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Poa,prat,Poa pratensis L.,Poa pratensis L.,4423,310800,1034660,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Poa,supi,Poa supina Schrad.,Poa supina Schrad.,4398,311100,1034680,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Poa,triv,Poa trivialis L.,Poa trivialis L.,4427,311295,1034690,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Sesler,caer,Sesleria caerulea (L.) Ard.,Sesleria caerulea (L.) Ard.,5582,392200,1043700,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Triset,flav,Trisetum flavescens (L.) P. Beauv.,Trisetum flavescens (L.) P. Beauv.,6118,429400,1047890,sp,Poaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,cary,Carex caryophyllea Latourr.,Carex caryophyllea Latourr.,1228,84900,1009510,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,dava,Carex davalliana Sm.,Carex davalliana Sm.,1233,85700,1009570,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,echi,Carex echinata Murray,Carex echinata Murray,1244,86700,1009680,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,ferr,Carex ferruginea Scop.,Carex ferruginea Scop.,1253,87200,1009730,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,flac,Carex flacca Schreb.,Carex flacca Schreb.,1259,87500,1009760,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Carex,lepo,Carex leporina L.,Carex leporina L.,1283,89500,1009970,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,mont,Carex montana L.,Carex montana L.,1292,90300,1010040,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,nigr,Carex nigra (L.) Reichard,Carex nigra (L.) Reichard,1304,90700,1010070,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,orni,Carex ornithopoda Willd.,Carex ornithopoda Willd.,1310,91200,1010090,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,pall,Carex pallescens L.,Carex pallescens L.,1312,91600,1010130,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Carex,pani,Carex panicea L.,Carex panicea L.,1313,91700,1010140,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carex,semp,Carex sempervirens Vill.,Carex sempervirens Vill.,1327,93900,1010340,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Erioph,lati,Eriophorum latifolium Hoppe,Eriophorum latifolium Hoppe,2204,155400,1017660,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Juncus,alpi,Juncus alpinoarticulatus Chaix,Juncus alpinoarticulatus Chaix,3099,217700,1024900,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Juncus,effu,Juncus effusus L.,Juncus effusus L.,3117,218800,1025000,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Juncus,fili,Juncus filiformis L.,Juncus filiformis L.,3119,218900,1025010,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Luzula,camp,Luzula campestris (L.) DC.,Luzula campestris (L.) DC.,3519,246100,1027700,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Luzula,mult,Luzula multiflora (Ehrh.) Lej.,Luzula multiflora (Ehrh.) Lej.,3524,247100,1027790,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Luzula,spic,Luzula spicata (L.) DC.,Luzula spicata (L.) DC.,3539,247800,1027860,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Luzula,sylv,Luzula sylvatica (Huds.) Gaudin,Luzula sylvatica (Huds.) Gaudin,3542,248300,1027910,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Luzula,sude,Luzula sudetica (Willd.) Schult.,Luzula sudetica (Willd.) Schult.,3526,248100,1027890,sp,Juncaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Scirpu,sylv,Scirpus sylvaticus L.,Scirpus sylvaticus L.,5408,379700,1042420,sp,Cyperaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Anthyl,vuln,Anthyllis vulneraria L.,Anthyllis vulneraria L.,520,36790,1004070,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hippoc,como,Hippocrepis comosa L.,Hippocrepis comosa L.,2929,206300,1023580,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lathyr,prat,Lathyrus pratensis L.,Lathyrus pratensis L.,3266,230400,1026050,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lotus,alpi,Lotus alpinus (DC.) Ramond,Lotus alpinus (DC.) Ramond,3487,244300,1027500,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lotus,corn,Lotus corniculatus L.,Lotus corniculatus L.,3488,244400,1027520,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Medica,lupu,Medicago lupulina L.,Medicago lupulina L.,3612,255300,1028530,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Medica,sati,Medicago sativa L.,Medicago sativa L.,3622,256000,1028590,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Onobry,vici,Onobrychis viciifolia Scop.,Onobrychis viciifolia Scop.,3930,275600,1030860,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Trifol,alpi,Trifolium alpinum L.,Trifolium alpinum L.,6049,424500,1047370,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Trifol,badi,Trifolium badium Schreb.,Trifolium badium Schreb.,6060,424900,1047410,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Trifol,medi,Trifolium medium L.,Trifolium medium L.,6070,426000,1047520,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Trifol,mont,Trifolium montanum L.,Trifolium montanum L.,6072,426300,1047540,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Trifol,prat,Trifolium pratense L.,Trifolium pratense L.,6082,426895,1047600,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Trifol,repe,Trifolium repens L.,Trifolium repens L.,6085,427100,1047630,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Trifol,thal,Trifolium thalii Vill.,Trifolium thalii Vill.,6098,428100,1047760,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Vicia,crac,Vicia cracca L.,Vicia cracca L.,6326,444995,1049620,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Vicia,sepi,Vicia sepium L.,Vicia sepium L.,6360,447400,1049860,sp,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Achill,mill,Achillea millefolium L.,Achillea millefolium L.,31,1700,1000330,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Acinos,alpi,Acinos alpinus (L.) Moench,Acinos alpinus (L.) Moench,51,2800,1000460,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ajuga,pyra,Ajuga pyramidalis L.,Ajuga pyramidalis L.,143,10300,1001220,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ajuga,rept,Ajuga reptans L.,Ajuga reptans L.,144,10400,1001230,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Alchem,vulg,Alchemilla vulgaris aggr.,Alchemilla vulgaris aggr.,191,21100,1002440,aggr,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Andros,cham,Androsace chamaejasme Wulfen,Androsace chamaejasme Wulfen,436,31800,1003540,sp,Primulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Anemon,narc,Anemone narcissiflora L.,Anemone narcissiflora L.,462,33400,1003760,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Antenn,dioi,Antennaria dioica (L.) Gaertn.,Antennaria dioica (L.) Gaertn.,476,34400,1003850,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Anthri,sylv,Anthriscus sylvestris (L.) Hoffm.,Anthriscus sylvestris (L.) Hoffm.,506,35900,1004010,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Arabis,cili,Arabis ciliata Clairv.,Arabis ciliata Clairv.,560,40200,1004440,sp,Brassicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Arabis,hirs,Arabis hirsuta (L.) Scop.,Arabis hirsuta (L.) Scop.,561,40600,1004460,sp,Brassicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Arnica,mont,Arnica montana L.,Arnica montana L.,624,45700,1004910,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Aster,bell,Aster bellidiastrum (L.) Scop.,Aster bellidiastrum (L.) Scop.,718,52000,1005660,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Astran,majo,Astrantia major L.,Astrantia major L.,764,55200,1006020,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Astran,mino,Astrantia minor L.,Astrantia minor L.,765,55300,1006050,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Bartsi,alpi,Bartsia alpina L.,Bartsia alpina L.,816,58700,1006460,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Bellis,pere,Bellis perennis L.,Bellis perennis L.,825,59100,1006490,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Biscut,laev,Biscutella laevigata L.,Biscutella laevigata L.,863,62000,1006780,sp,Brassicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Caltha,palu,Caltha palustris L.,Caltha palustris L.,1040,73700,1008180,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Campan,barb,Campanula barbata L.,Campanula barbata L.,1058,74700,1008300,sp,Campanulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Campan,rhom,Campanula rhomboidalis L.,Campanula rhomboidalis L.,1097,77000,1008630,sp,Campanulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Campan,sche,Campanula scheuchzeri Vill.,Campanula scheuchzeri Vill.,1110,77200,1008650,sp,Campanulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cardam,prat,Cardamine pratensis L.,Cardamine pratensis L.,1152,79790,1008990,sp,Brassicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carduu,defl,Carduus defloratus L.,Carduus defloratus L.,1182,81595,1009170,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carlin,acau,Carlina acaulis L.,Carlina acaulis L.,1345,95800,1010490,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Carum,carv,Carum carvi L.,Carum carvi L.,1358,97100,1010610,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Centau,jace,Centaurea jacea L.,Centaurea jacea L.,1381,98750,1010820,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Centau,scab,Centaurea scabiosa L.,Centaurea scabiosa L.,1421,99995,1010980,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cerast,arve,Cerastium arvense L.,Cerastium arvense L.,1451,102595,1011270,sp,Caryophyllaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cerast,font,Cerastium fontanum Baumg.,Cerastium fontanum Baumg.,1459,103595,1011390,sp,Caryophyllaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Chaero,hirs,Chaerophyllum hirsutum L.,Chaerophyllum hirsutum L.,1504,106700,1011710,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Chaero,vill,Chaerophyllum villarsii W. D. J. Koch,Chaerophyllum villarsii W. D. J. Koch,1505,107100,1011730,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Chenop,bonu,Chenopodium bonus-henricus L.,Chenopodium bonus-henricus L.,1529,108500,1011880,sp,Amaranthaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cirsiu,acau,Cirsium acaule Scop.,Cirsium acaule Scop.,1564,113700,1012300,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cirsiu,oler,Cirsium oleraceum (L.) Scop.,Cirsium oleraceum (L.) Scop.,1577,114800,1012400,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cirsiu,spin,Cirsium spinosissimum (L.) Scop.,Cirsium spinosissimum (L.) Scop.,1581,115300,1012450,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Clinop,vulg,Clinopodium vulgare L.,Clinopodium vulgare L.,1602,116600,1012660,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Coelog,viri,Coeloglossum viride (L.) Hartm.,Coeloglossum viride (L.) Hartm.,1612,117200,1012750,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Colchi,autu,Colchicum autumnale L.,Colchicum autumnale L.,1619,117700,1012810,sp,Colchicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Crepis,aure,Crepis aurea (L.) Cass.,Crepis aurea (L.) Cass.,1712,123000,1013630,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Crepis,bien,Crepis biennis L.,Crepis biennis L.,1713,123100,1013640,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Crepis,cony,Crepis conyzifolia (Gouan) A. Kern.,Crepis conyzifolia (Gouan) A. Kern.,1717,123500,1013670,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Crepis,palu,Crepis paludosa (L.) Moench,Crepis paludosa (L.) Moench,1729,124300,1013760,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Crepis,pyre,Crepis pyrenaica (L.) Greuter,Crepis pyrenaica (L.) Greuter,1736,124800,1013800,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Crocus,albi,Crocus albiflorus Kit.,Crocus albiflorus Kit.,1751,125800,1013880,sp,Iridaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Cuscut,epit,Cuscuta epithymum (L.) L.,Cuscuta epithymum (L.) L.,1777,127800,1014130,sp,Convolvulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Dactyl,macu,Dactylorhiza maculata (L.) Soó,Dactylorhiza maculata (L.) Soó,1858,132600,1014760,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Dactyl,maja,Dactylorhiza majalis (Rchb.) P. F. Hunt & Summerh.,Dactylorhiza majalis (Rchb.) P. F. Hunt & Summerh.,1859,132700,1014800,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Dactyl,trau,Dactylorhiza traunsteineri (Rchb.) Soó,Dactylorhiza traunsteineri (Rchb.) Soó,1863,132900,1014840,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Equise,arve,Equisetum arvense L.,Equisetum arvense L.,2150,150600,1016920,sp,Equisetaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Equise,palu,Equisetum palustre L.,Equisetum palustre L.,2153,151100,1016950,sp,Equisetaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Euphor,cypa,Euphorbia cyparissias L.,Euphorbia cyparissias L.,2280,159800,1018170,sp,Euphorbiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Euphra,hirt,Euphrasia hirtella Reut.,Euphrasia hirtella Reut.,2328,162500,1018560,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Euphra,mini,Euphrasia minima Schleich.,Euphrasia minima Schleich.,2331,162750,1018600,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Euphra,rost,Euphrasia rostkoviana Hayne,Euphrasia rostkoviana Hayne,2340,163450,1018700,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Fragar,vesc,Fragaria vesca L.,Fragaria vesca L.,2468,173800,1019920,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Galeop,tetr,Galeopsis tetrahit L.,Galeopsis tetrahit L.,2528,177100,1020350,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Galium,albu,Galium album Mill.,Galium album Mill.,2553,177400,1020380,sp,Rubiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Galium,anis,Galium anisophyllon Vill.,Galium anisophyllon Vill.,2566,177500,1020390,sp,Rubiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Galium,pumi,Galium pumilum Murray,Galium pumilum Murray,2570,179700,1020600,sp,Rubiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Gentia,acau,Gentiana acaulis L.,Gentiana acaulis L.,2613,182200,1020890,sp,Gentianaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Gentia,camp,Gentiana campestris L.,Gentiana campestris L.,2622,183100,1021000,sp,Gentianaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Gentia,purp,Gentiana purpurea L.,Gentiana purpurea L.,2653,184900,1021200,sp,Gentianaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Gentia,vern,Gentiana verna L.,Gentiana verna L.,2666,185400,1021250,sp,Gentianaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Gerani,sylv,Geranium sylvaticum L.,Geranium sylvaticum L.,2695,189300,1021530,sp,Geraniaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Geum,mont,Geum montanum L.,Geum montanum L.,2698,189400,1021540,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Geum,riva,Geum rivale L.,Geum rivale L.,2700,189600,1021570,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Glecho,hede,Glechoma hederacea L.,Glechoma hederacea L.,2716,190500,1021690,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Globul,nudi,Globularia nudicaulis L.,Globularia nudicaulis L.,2724,191200,1021750,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Gnapha,sylv,Gnaphalium sylvaticum L.,Gnaphalium sylvaticum L.,2742,192600,1021880,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Gymnad,cono,Gymnadenia conopsea (L.) R. Br.,Gymnadenia conopsea (L.) R. Br.,2751,193200,1021950,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Helian,numm,Helianthemum nummularium (L.) Mill.,Helianthemum nummularium (L.) Mill.,2779,194895,1022180,sp,Cistaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Heracl,spho,Heracleum sphondylium L.,Heracleum sphondylium L.,2841,198595,1022590,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hierac,lach,Hieracium lachenalii C. C. Gmel.,Hieracium lachenalii C. C. Gmel.,2888,202000,1023030,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hierac,lact,Hieracium lactucella Wallr.,Hieracium lactucella Wallr.,2868,202100,1023040,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hierac,muro,Hieracium murorum aggr.,Hieracium murorum aggr.,2889,202700,1023110,aggr,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hierac,pilo,Hieracium pilosella L.,Hieracium pilosella L.,2903,203400,1023200,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hierac,vill,Hieracium villosum Jacq.,Hieracium villosum Jacq.,2920,205800,1023500,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Homogy,alpi,Homogyne alpina (L.) Cass.,Homogyne alpina (L.) Cass.,2946,207300,1023680,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hyperi,macu,Hypericum maculatum Crantz,Hypericum maculatum Crantz,2999,210695,1024060,sp,Hypericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hyperi,perf,Hypericum perforatum L.,Hypericum perforatum L.,3000,211050,1024130,sp,Hypericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Hypoch,radi,Hypochaeris radicata L.,Hypochaeris radicata L.,3011,212100,1024230,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Knauti,arve,Knautia arvensis (L.) Coult.,Knautia arvensis (L.) Coult.,3149,221400,1025230,sp,Caprifoliaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Knauti,dips,Knautia dipsacifolia Kreutzer,Knautia dipsacifolia Kreutzer,3165,221450,1025240,sp,Caprifoliaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lamium,albu,Lamium album L.,Lamium album L.,3209,225500,1025650,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Laserp,hall,Laserpitium halleri Crantz,Laserpitium halleri Crantz,3230,227500,1025850,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Laserp,lati,Laserpitium latifolium L.,Laserpitium latifolium L.,3234,227700,1025860,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Leonto,autu,Leontodon autumnalis L.,Leontodon autumnalis L.,3306,232700,1026290,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Leonto,helv,Leontodon helveticus Mérat,Leontodon helveticus Mérat,3326,232900,1026310,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Leonto,hisp,Leontodon hispidus L.,Leontodon hispidus L.,3315,233000,1026330,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Leucan,gaud,Leucanthemum gaudinii Dalla Torre,Leucanthemum gaudinii Dalla Torre,3365,236400,1026670,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Leucan,hall,Leucanthemum halleri (Vitman) Ducommun,Leucanthemum halleri (Vitman) Ducommun,3357,236500,1026680,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Leucan,vulg,Leucanthemum vulgare Lam.,Leucanthemum vulgare Lam.,3361,236800,1026730,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ligust,mute,Ligusticum mutellina (L.) Crantz,Ligusticum mutellina (L.) Crantz,3384,237800,1026810,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Linum,cath,Linum catharticum L.,Linum catharticum L.,3425,241100,1027130,sp,Linaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lister,ovat,Listera ovata (L.) R. Br.,Listera ovata (L.) R. Br.,3451,242000,1027220,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Lysima,nemo,Lysimachia nemorum L.,Lysimachia nemorum L.,3560,251400,1028080,sp,Primulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Melamp,sylv,Melampyrum sylvaticum L.,Melampyrum sylvaticum L.,3636,256600,1028660,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Myosot,alpe,Myosotis alpestris F. W. Schmidt,Myosotis alpestris F. W. Schmidt,3800,265800,1029690,sp,Boraginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Myosot,arve,Myosotis arvensis Hill,Myosotis arvensis Hill,3784,265900,1029700,sp,Boraginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Myosot,scor,Myosotis scorpioides L.,Myosotis scorpioides L.,3792,266800,1029800,sp,Boraginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Myosot,sylv,Myosotis sylvatica Hoffm.,Myosotis sylvatica Hoffm.,3805,267100,1029820,sp,Boraginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Nigrit,rhel,Nigritella rhellicani aggr.,Nigritella rhellicani aggr.,3866,271700,1030380,aggr,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Orchis,masc,Orchis mascula (L.) L.,Orchis mascula (L.) L.,3997,280900,1031350,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Orchis,ustu,Orchis ustulata L.,Orchis ustulata L.,4017,282200,1031500,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Origan,vulg,Origanum vulgare L.,Origanum vulgare L.,4025,282600,1031560,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Paradi,lili,Paradisea liliastrum (L.) Bertol.,Paradisea liliastrum (L.) Bertol.,4156,292100,1032560,sp,Asparagaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Parnas,palu,Parnassia palustris L.,Parnassia palustris L.,4164,292700,1032600,sp,Celastraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pedicu,asce,Pedicularis ascendens Gaudin,Pedicularis ascendens Gaudin,4208,293700,1032750,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pedicu,tube,Pedicularis tuberosa L.,Pedicularis tuberosa L.,4211,295400,1032930,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Phyteu,beto,Phyteuma betonicifolium Vill.,Phyteuma betonicifolium Vill.,4286,300800,1033570,sp,Campanulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Phyteu,orbi,Phyteuma orbiculare L.,Phyteuma orbiculare L.,4300,301800,1033670,sp,Campanulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Phyteu,spic,Phyteuma spicatum L.,Phyteuma spicatum L.,4308,302400,1033740,sp,Campanulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Picris,hier,Picris hieracioides L.,Picris hieracioides L.,4316,303100,1033830,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pimpin,majo,Pimpinella major (L.) Huds.,Pimpinella major (L.) Huds.,4326,303800,1033920,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pimpin,saxi,Pimpinella saxifraga L.,Pimpinella saxifraga L.,4332,304000,1033970,sp,Apiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Planta,alpi,Plantago alpina L.,Plantago alpina L.,4369,307000,1034250,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Planta,atra,Plantago atrata Hoppe,Plantago atrata Hoppe,4375,307250,1034280,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Planta,lanc,Plantago lanceolata L.,Plantago lanceolata L.,4382,307800,1034330,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Planta,majo,Plantago major L.,Plantago major L.,4385,307850,1034350,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Planta,medi,Plantago media L.,Plantago media L.,4386,308100,1034390,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Polyga,alpe,Polygala alpestris Rchb.,Polygala alpestris Rchb.,4437,312300,1034770,sp,Polygalaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Polyga,vulg,Polygala vulgaris L.,Polygala vulgaris L.,4459,313195,1034890,sp,Polygalaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Polygo,bist,Polygonum bistorta L.,Polygonum bistorta L.,4471,314400,1035010,sp,Polygonaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Polygo,vivi,Polygonum viviparum L.,Polygonum viviparum L.,4487,315800,1035170,sp,Polygonaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Potent,aure,Potentilla aurea L.,Potentilla aurea L.,4540,321300,1035720,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Potent,cran,Potentilla crantzii (Crantz) Fritsch,Potentilla crantzii (Crantz) Fritsch,4552,322100,1035790,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Potent,erec,Potentilla erecta (L.) Raeusch.,Potentilla erecta (L.) Raeusch.,4558,322400,1035810,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Primul,elat,Primula elatior (L.) L.,Primula elatior (L.) L.,4607,325950,1036200,sp,Primulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Primul,fari,Primula farinosa L.,Primula farinosa L.,4609,326200,1036230,sp,Primulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Primul,veri,Primula veris L.,Primula veris L.,4634,327195,1036330,sp,Primulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Prunel,gran,Prunella grandiflora (L.) Scholler,Prunella grandiflora (L.) Scholler,4639,327900,1036460,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Prunel,vulg,Prunella vulgaris L.,Prunella vulgaris L.,4643,328100,1036480,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pseudo,albi,Pseudorchis albida (L.) Á. Löve & D. Löve,Pseudorchis albida (L.) Á. Löve & D. Löve,4673,330400,1036710,sp,Orchidaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pulsat,alpi,Pulsatilla alpina (L.) Delarbre,Pulsatilla alpina (L.) Delarbre,4718,333195,1036980,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Pulsat,alpi,Pulsatilla alpina subsp. apiifolia (Scop.) Nyman,Pulsatilla alpina (L.) Delarbre,4719,333390,1037010,subsp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ranunc,acon,Ranunculus aconitifolius L.,Ranunculus aconitifolius L.,4767,336500,1037360,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+X,0,0,Ranunc,acri,Ranunculus acris L.,Ranunculus acris L.,4770,336595,1037370,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ranunc,bulb,Ranunculus bulbosus L.,Ranunculus bulbosus L.,4849,337700,1037510,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ranunc,fica,Ranunculus ficaria L.,Ranunculus ficaria L.,4855,338200,1037550,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ranunc,mont,Ranunculus montanus Willd.,Ranunculus montanus Willd.,4872,339500,1037710,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ranunc,repe,Ranunculus repens L.,Ranunculus repens L.,4888,340900,1037840,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+x,0,0,Rhinan,alec,Rhinanthus alectorolophus (Scop.) Pollich,Rhinanthus alectorolophus (Scop.) Pollich,4922,344100,1038230,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Rhinan,mino,Rhinanthus minor L.,Rhinanthus minor L.,4938,344800,1038290,sp,Orobanchaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Rumex,acet,Rumex acetosa L.,Rumex acetosa L.,5118,358900,1040140,sp,Polygonaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+,0,0,Rumex,alpe,Rumex alpestris Jacq.,Rumex alpestris Jacq.,5119,359300,1040190,sp,Polygonaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Rumex,obtu,Rumex obtusifolius L.,Rumex obtusifolius L.,5141,360400,1040290,sp,Polygonaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+x,0,0,Rumex,alpi,Rumex alpinus L.,Rumex alpinus L.,5127,359400,1040200,sp,Polygonaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Salvia,prat,Salvia pratensis L.,Salvia pratensis L.,5238,367600,1041200,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Sangui,mino,Sanguisorba minor Scop.,Sanguisorba minor Scop.,5251,368650,1041340,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+,0,0,Sangui,offi,Sanguisorba officinalis L.,Sanguisorba officinalis L.,5256,369000,1041370,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Scabio,colu,Scabiosa columbaria L.,Scabiosa columbaria L.,5361,376500,1042090,sp,Caprifoliaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Scabio,luci,Scabiosa lucida Vill.,Scabiosa lucida Vill.,5364,377100,1042120,sp,Caprifoliaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Sibbal,proc,Sibbaldia procumbens L.,Sibbaldia procumbens L.,5598,393700,1043840,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+x,0,0,Silene,dioi,Silene dioica (L.) Clairv.,Silene dioica (L.) Clairv.,5619,394900,1043940,sp,Caryophyllaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Silene,nuta,Silene nutans L.,Silene nutans L.,5635,396050,1044020,sp,Caryophyllaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Silene,vulg,Silene vulgaris (Moench) Garcke,Silene vulgaris (Moench) Garcke,5662,397295,1044140,sp,Caryophyllaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Soldan,alpi,Soldanella alpina L.,Soldanella alpina L.,5700,400600,1044540,sp,Primulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Solida,virg,Solidago virgaurea L.,Solidago virgaurea L.,5716,401395,1044620,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Stella,gram,Stellaria graminea L.,Stellaria graminea L.,5816,407500,1045360,sp,Caryophyllaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Taraxa,offi,Taraxacum officinale aggr.,Taraxacum officinale aggr.,5882,413100,1046080,aggr,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Thesiu,alpi,Thesium alpinum L.,Thesium alpinum L.,5952,417200,1046450,sp,Santalaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Thesiu,pyre,Thesium pyrenaicum Pourr.,Thesium pyrenaicum Pourr.,5960,417700,1046500,sp,Santalaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Thlasp,alpe,Thlaspi alpestre aggr.,Thlaspi alpestre aggr.,5966,417995,1046560,aggr,Brassicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Thymus,serp,Thymus serpyllum aggr.,Thymus serpyllum aggr.,5991,421200,1046890,aggr,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Thymus,pule,Thymus pulegioides L.,Thymus pulegioides L.,6002,420940,1046860,sp,Lamiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Tofiel,caly,Tofieldia calyculata (L.) Wahlenb.,Tofieldia calyculata (L.) Wahlenb.,6009,421600,1046990,sp,Tofieldiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Tragop,prat,Tragopogon pratensis L.,Tragopogon pratensis L.,6034,422950,1047180,sp,Asteraceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Trolli,euro,Trollius europaeus L.,Trollius europaeus L.,6131,430600,1048030,sp,Ranunculaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Urtica,dioi,Urtica dioica L.,Urtica dioica L.,6175,433400,1048360,sp,Urticaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Valeri,dioi,Valeriana dioica L.,Valeriana dioica L.,6207,435600,1048580,sp,Caprifoliaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veratr,albu,Veratrum album L.,Veratrum album L.,6242,437800,1048820,sp,Melanthiaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veroni,arve,Veronica arvensis L.,Veronica arvensis L.,6280,440800,1049160,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veroni,bell,Veronica bellidioides L.,Veronica bellidioides L.,6289,441100,1049190,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veroni,cham,Veronica chamaedrys L.,Veronica chamaedrys L.,6291,441400,1049210,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veroni,offi,Veronica officinalis L.,Veronica officinalis L.,6303,442400,1049340,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veroni,serp,Veronica serpyllifolia L.,Veronica serpyllifolia L.,6307,443395,1049460,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Veroni,mont,Veronica montana L.,Veronica montana L.,6302,442300,1049330,sp,Plantaginaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,bifl,Viola biflora L.,Viola biflora L.,6383,449100,1050010,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,calc,Viola calcarata L.,Viola calcarata L.,6385,449200,1050020,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,cani,Viola canina L.,Viola canina L.,6391,449250,1050060,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,hirt,Viola hirta L.,Viola hirta L.,6404,450300,1050170,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,rivi,Viola riviniana Rchb.,Viola riviniana Rchb.,6424,451700,1050280,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,tric,Viola tricolor L.,Viola tricolor L.,6428,452500,1050340,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Viola,reic,Viola reichenbachiana Boreau,Viola reichenbachiana Boreau,6423,451600,1050270,sp,Violaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Acer,pseu,Acer pseudoplatanus L.,Acer pseudoplatanus L.,11,800,1000130,sp,Sapindaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Alnus,viri,Alnus viridis (Chaix) DC.,Alnus viridis (Chaix) DC.,351,25400,1002870,sp,Betulaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Callun,vulg,Calluna vulgaris (L.) Hull,Calluna vulgaris (L.) Hull,1039,73600,1008160,sp,Ericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Fraxin,exce,Fraxinus excelsior L.,Fraxinus excelsior L.,2473,174200,1019970,sp,Oleaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Junipe,comm,Juniperus communis L.,Juniperus communis L.,3135,220395,1025140,sp,Cupressaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Ononis,spin,Ononis spinosa aggr.,Ononis spinosa aggr.,3939,276850,1030955,aggr,Fabaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Picea,abie,Picea abies (L.) H. Karst.,Picea abies (L.) H. Karst.,4311,302800,1033800,sp,Pinaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Polyga,cham,Polygala chamaebuxus L.,Polygala chamaebuxus L.,4445,312700,1034830,sp,Polygalaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Rhodod,ferr,Rhododendron ferrugineum L.,Rhododendron ferrugineum L.,4943,345300,1038330,sp,Ericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Salix,reti,Salix reticulata L.,Salix reticulata L.,5218,366100,1040980,sp,Salicaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Sorbus,aria,Sorbus aria (L.) Crantz,Sorbus aria (L.) Crantz,5729,402200,1044730,sp,Rosaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Vaccin,myrt,Vaccinium myrtillus L.,Vaccinium myrtillus L.,6192,434800,1048500,sp,Ericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Vaccin,ulig,Vaccinium uliginosum L.,Vaccinium uliginosum L.,6198,435000,1048530,sp,Ericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,Vaccin,viti,Vaccinium vitis-idaea L.,Vaccinium vitis-idaea L.,6201,435300,1048540,sp,Ericaceae,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+0,0,0,,,,,,,,,,IWRW11,auth,date,cut,ave,max,cover,mossy,dead,stone,soil,wormy,representativitaet,qualitaet
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
